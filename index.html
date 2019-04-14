@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,700" rel="stylesheet">
+    <script type="text/javascript" src="./assets/javascript/game.js"></script>
+    <title>RPG Game</title>
+</head>
+
+<body>
+    <h1>Gears of War RPG <img src="./assets/images/gears_of_war_logo.png" class="logo"> </h1>
+    <h2 id="pick"></h2>
+    <div class="pickCharacter">
+        <div class="character fenix">
+            <p class="name">Marcus Fenix</p>
+            <img src="./assets/images/marcus fenix.jpg">
+            <p class="HP">195</p>
+        </div>
+        <div class="character raam">
+            <p class="name">RAAM</p>
+            <img src="./assets/images/Locust_RAAM.jpg">
+            <p class="HP">250</p>
+        </div>
+        <div class="character cole">
+            <p class="name">Cole Train</p>
+            <img src="./assets/images/cole train.jpg">
+            <p class="HP">175</p>
+        </div>
+        <div class="character carmine">
+            <p class="name">Anthony Carmine</p>
+            <img src="./assets/images/anthony-carmine.jpg">
+            <p class="HP">135</p>
+        </div>
+    </div>
+    <div class="yourCharacter"></div>
+    <h2>Enemies to attack</h2>
+    <div class="enemies"></div>
+    <div class="fight">
+        <h2>Fight section</h2>
+    </div>
+    <button id="attack">Attack</button>
+    <h2>Defender</h2>
+    <div class="defender"></div>
+    <div class="messages">
+        <p class="attackMessage"></p>
+        <p class="defendMessage"></p>
+        <p class="winLoseMessage"></p>
+        <button class="hide" id="restart">Restart</button>
+    </div>
+
+</body>
+
+</html>

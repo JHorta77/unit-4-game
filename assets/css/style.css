@@ -1,0 +1,57 @@
+body{
+    background-image: url("https://media.moddb.com/images/downloads/1/59/58285/2013-08-15_00018.jpg");
+    background-size: cover;
+	color: white;
+	font-family: 'Merriweather', serif;
+}
+.character{
+	height:155px;
+	width:200px;
+	background:grey;
+	border:2px solid blue;
+	display:inline-block;
+	text-align:center;
+	margin: 10px;
+}
+
+.character:hover{
+	cursor:pointer;
+}
+
+h1{
+	font-size:38px;
+	text-align:right;
+	margin-right:10%;
+}
+h2{
+	font-size:28px;
+	
+}
+
+img{
+	height:100px;
+	width:100px;
+    margin: -19px auto;
+}
+
+.character p{
+	color:black;
+    text-shadow:none;
+    position: relative;
+    margin: 12pt;
+    top: -2px;
+}
+
+.hide{
+	display:none;
+}
+
+.enemies .character{
+	background:red;
+}
+.logo {
+	position: relative;
+	top: 20px;
+	width: 165px;
+	height: 160px;
+}
