@@ -6,4 +6,5 @@ A jQuery "War" card game style Gears of War themed RPG.
 
 This game was built using jQuery & JavaScript, HTML5, CSS.
 
-# How to play 
+# How the app works 
+
