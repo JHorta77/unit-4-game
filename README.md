@@ -8,7 +8,7 @@ This game was built using jQuery & JavaScript, HTML5, CSS.
 
 # Get Started
 
-
+Click the link at the top of the page to view the site.
 
 # How the app works 
 
