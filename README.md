@@ -1,6 +1,6 @@
 # Gears of War RPG game
 
-A JavaScript "War" card game.
+A JQuery "War" card game.
 
 # What I used
 
