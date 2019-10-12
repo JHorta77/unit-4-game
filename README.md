@@ -17,3 +17,5 @@ When the game starts, the player will choose a character by clicking on a charac
 The player will then click on the attack button. That will make the enemies life points go down aswhile as your own. The enemy too can attack you and is why you will lose life points. Once you defeat the enemy charater choice another character to fight. 
 
 After you beat all remaining you win. If not try agian and see if your successful. 
+
+<img width="1436" alt="Screen Shot 2019-10-12 at 10 04 05 AM" src="https://user-images.githubusercontent.com/47362352/66703092-cc88fa00-ecdc-11e9-8690-b01e438dfaa4.png">
